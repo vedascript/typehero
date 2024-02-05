@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Press Start 2P", sans-serif;
+  color: black;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
+#canvas {
+  border: solid;
+  height: 500px;
+  width: 1500px;
+  /* background-color: brown; */
+}

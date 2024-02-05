@@ -1,0 +1,8 @@
+{
+  "name": "typehero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/vedascript/typehero.git",
+  "author": "Vedansh Wani <me.vedanshwani@gmail.com>",
+  "license": "MIT"
+}
